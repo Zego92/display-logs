@@ -2,7 +2,7 @@
 import type { FC } from 'react';
 
 // Components
-import { LogViewComponent } from '../components/log-view';
+import { LogViewComponent } from '@/components/log-view';
 
 export const App: FC = () => {
   return (

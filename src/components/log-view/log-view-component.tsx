@@ -5,7 +5,7 @@ import type { ListProps } from 'react-virtualized'
 import { List } from 'react-virtualized';
 
 // Hooks
-import { useWebSocket } from '../../hooks/useWebSocket';
+import { useWebSocket } from '@/hooks/useWebSocket';
 
 // Styles
 import styles from './styles.module.scss';

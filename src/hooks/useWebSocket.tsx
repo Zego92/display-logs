@@ -2,7 +2,7 @@
 import { useEffect } from 'react';
 
 // Config
-import { WS_URL } from '../config/local';
+import { WS_URL } from '@/config/local';
 
 interface Arguments {
   url: string;
